@@ -7,7 +7,7 @@ interface Props {
 
 const Dashboard: FC<Props> = (props) => {
   return (
-   <Button>Hello</Button>
+   <Button>Hell</Button>
   );
 };
 
